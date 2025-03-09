@@ -2,10 +2,6 @@
 
 const nextConfig = {
   output: "export",
-<<<<<<< HEAD
-=======
-  trailingSlash: true, // Ensure URLs end with a trailing slash
->>>>>>> 8844bb793eb228cbd6ad5b32a09f29594ffcc831
   eslint: {
     ignoreDuringBuilds: true,
   },
